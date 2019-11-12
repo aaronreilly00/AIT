@@ -13,6 +13,12 @@ namespace GolfClubHouse
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            routes.MapRoute("MembershipByReleaseMonth",
+                            "Membership/ReleaseMonth/{year}/{month}",
+                            new { Controller = "member", Action = "ReleaseMonth" });
+
+            
+
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
