@@ -20,6 +20,8 @@ namespace GolfClubHouse.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<Booking> Bookings { get; set; }
+        public DbSet <Members>  Member { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {

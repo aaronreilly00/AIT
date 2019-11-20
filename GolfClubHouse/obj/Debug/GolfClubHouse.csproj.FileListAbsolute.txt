@@ -219,3 +219,5 @@ C:\Users\ReiLaa01\Desktop\AIT\GolfClubHouse\obj\Debug\GolfClubHouse.csprojAssemb
 C:\Users\ReiLaa01\Desktop\AIT\GolfClubHouse\obj\Debug\GolfClubHouse.csproj.CopyComplete
 C:\Users\ReiLaa01\Desktop\AIT\GolfClubHouse\obj\Debug\GolfClubHouse.dll
 C:\Users\ReiLaa01\Desktop\AIT\GolfClubHouse\obj\Debug\GolfClubHouse.pdb
+C:\Users\ReiLaa01\Desktop\AIT\GolfClubHouse\obj\Debug\GolfClubHouse.Migrations.AddBookingAndMembersClass.resources
+C:\Users\ReiLaa01\Desktop\AIT\GolfClubHouse\obj\Debug\GolfClubHouse.csproj.GenerateResource.cache

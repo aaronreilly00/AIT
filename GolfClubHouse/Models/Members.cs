@@ -12,5 +12,6 @@ namespace GolfClubHouse.Models
 
         [Required]
         public string name { get; set; }
+
     }
 }
